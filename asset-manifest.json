@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/regester-react/static/css/main.7a6ce975.chunk.css",
-    "main.js": "/regester-react/static/js/main.517a8d1a.chunk.js",
-    "main.js.map": "/regester-react/static/js/main.517a8d1a.chunk.js.map",
+    "main.css": "/regester-react/static/css/main.2fc932f0.chunk.css",
+    "main.js": "/regester-react/static/js/main.fea7206b.chunk.js",
+    "main.js.map": "/regester-react/static/js/main.fea7206b.chunk.js.map",
     "runtime-main.js": "/regester-react/static/js/runtime-main.0588f991.js",
     "runtime-main.js.map": "/regester-react/static/js/runtime-main.0588f991.js.map",
     "static/js/2.2a8ff520.chunk.js": "/regester-react/static/js/2.2a8ff520.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.07f2902a.chunk.js": "/regester-react/static/js/3.07f2902a.chunk.js",
     "static/js/3.07f2902a.chunk.js.map": "/regester-react/static/js/3.07f2902a.chunk.js.map",
     "index.html": "/regester-react/index.html",
-    "static/css/main.7a6ce975.chunk.css.map": "/regester-react/static/css/main.7a6ce975.chunk.css.map",
+    "static/css/main.2fc932f0.chunk.css.map": "/regester-react/static/css/main.2fc932f0.chunk.css.map",
     "static/js/2.2a8ff520.chunk.js.LICENSE.txt": "/regester-react/static/js/2.2a8ff520.chunk.js.LICENSE.txt",
     "static/media/commonauth.css": "/regester-react/static/media/clg.b49bf294.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0588f991.js",
     "static/js/2.2a8ff520.chunk.js",
-    "static/css/main.7a6ce975.chunk.css",
-    "static/js/main.517a8d1a.chunk.js"
+    "static/css/main.2fc932f0.chunk.css",
+    "static/js/main.fea7206b.chunk.js"
   ]
 }
